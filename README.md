@@ -48,5 +48,8 @@ System Selection:
 - Windows 10 Machine
 
 
--TBD
+-Project Management:
+
+Purple Onion Security Trello Board for Chewy Compliance Project:
+https://trello.com/b/t0g9ZMMF/chewy
 
